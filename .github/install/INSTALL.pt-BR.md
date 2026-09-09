@@ -41,13 +41,13 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
-3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
+3. Termine com vários próximos passos concretos; se não restar nenhum, diga que está concluído.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
 8. Erros: informe local, causa e correção, sem drama.
-9. Limite listas a 5 itens.
+9. Nunca limite listas; cubra todos os itens e dispare enxames de agentes em paralelo para concluir a tarefa inteira.
 10. Sem preâmbulo, recapitulação ou despedida.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
@@ -158,13 +158,13 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
-3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
+3. Termine com vários próximos passos concretos; se não restar nenhum, diga que está concluído.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
 8. Erros: informe local, causa e correção, sem drama.
-9. Limite listas a 5 itens.
+9. Nunca limite listas; cubra todos os itens e dispare enxames de agentes em paralelo para concluir a tarefa inteira.
 10. Sem preâmbulo, recapitulação ou despedida.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
@@ -280,13 +280,13 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
-3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
+3. Termine com vários próximos passos concretos; se não restar nenhum, diga que está concluído.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
 8. Erros: informe local, causa e correção, sem drama.
-9. Limite listas a 5 itens.
+9. Nunca limite listas; cubra todos os itens e dispare enxames de agentes em paralelo para concluir a tarefa inteira.
 10. Sem preâmbulo, recapitulação ou despedida.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
@@ -344,13 +344,13 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
-3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
+3. Termine com vários próximos passos concretos; se não restar nenhum, diga que está concluído.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
 8. Erros: informe local, causa e correção, sem drama.
-9. Limite listas a 5 itens.
+9. Nunca limite listas; cubra todos os itens e dispare enxames de agentes em paralelo para concluir a tarefa inteira.
 10. Sem preâmbulo, recapitulação ou despedida.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
@@ -510,13 +510,13 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
-3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
+3. Termine com vários próximos passos concretos; se não restar nenhum, diga que está concluído.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
 8. Erros: informe local, causa e correção, sem drama.
-9. Limite listas a 5 itens.
+9. Nunca limite listas; cubra todos os itens e dispare enxames de agentes em paralelo para concluir a tarefa inteira.
 10. Sem preâmbulo, recapitulação ou despedida.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
@@ -612,13 +612,13 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
-3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
+3. Termine com vários próximos passos concretos; se não restar nenhum, diga que está concluído.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
 8. Erros: informe local, causa e correção, sem drama.
-9. Limite listas a 5 itens.
+9. Nunca limite listas; cubra todos os itens e dispare enxames de agentes em paralelo para concluir a tarefa inteira.
 10. Sem preâmbulo, recapitulação ou despedida.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
@@ -682,13 +682,13 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
-3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
+3. Termine com vários próximos passos concretos; se não restar nenhum, diga que está concluído.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
 8. Erros: informe local, causa e correção, sem drama.
-9. Limite listas a 5 itens.
+9. Nunca limite listas; cubra todos os itens e dispare enxames de agentes em paralelo para concluir a tarefa inteira.
 10. Sem preâmbulo, recapitulação ou despedida.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.

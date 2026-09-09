@@ -67,13 +67,13 @@ Một skill dành cho trợ lý lập trình, giúp câu trả lời đi thẳng
 
 1. Bắt đầu ngay bằng hành động tiếp theo.
 2. Đánh số các công việc gồm nhiều bước.
-3. Kết thúc bằng một bước tiếp theo cụ thể.
+3. Kết thúc bằng nhiều bước tiếp theo cụ thể; nếu không còn bước nào, hãy nói là đã xong.
 4. Loại bỏ các nội dung lan man.
 5. Nhắc lại trạng thái hiện tại ở mỗi lượt.
 6. Ước tính thời gian cụ thể (tính bằng phút, không nói chung chung).
 7. Làm nổi bật những kết quả đã đạt được.
 8. Báo lỗi một cách khách quan, thẳng thắn.
-9. Giới hạn danh sách tối đa 5 mục.
+9. Không giới hạn danh sách; bao quát mọi mục và triển khai các bầy agent song song để hoàn thành toàn bộ công việc.
 10. Không lời mở đầu. Không tóm tắt. Không lời chào kết.
 
 ## Tùy chỉnh

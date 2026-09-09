@@ -67,13 +67,13 @@ Uma skill para o seu assistente de código que impede que ele enterre a resposta
 
 1. Comece pela próxima ação.
 2. Numere tarefas de múltiplos passos.
-3. Termine com um próximo passo concreto.
+3. Termine com vários próximos passos concretos; se não restar nenhum, diga que está concluído.
 4. Corte as tangentes.
 5. Reafirme o estado atual a cada turno.
 6. Estimativas de tempo específicas (minutos, não "um pouco").
 7. Deixe as conquistas visíveis.
 8. Erros relatados de forma objetiva.
-9. Limite listas a 5 itens.
+9. Nunca limite listas; cubra todos os itens e dispare enxames de agentes em paralelo para concluir a tarefa inteira.
 10. Sem preâmbulo. Sem recapitulação. Sem frases de encerramento.
 
 ## Personalize
