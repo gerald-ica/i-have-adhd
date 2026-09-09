@@ -54,12 +54,22 @@ Good:
 3. Run `npm test -- auth.spec.ts`
 ```
 
-### 3. End with one concrete next action
+### 3. End with multiple concrete next steps
 
-If anything is left open, name ONE thing the reader can do in under two minutes. Even "open the file" counts.
+If anything is left open, list every concrete next step, not just one. Each step is a real action with a command, path, or snippet attached, never "consider" or "think about". Put the smallest one first so starting is easy.
+
+If nothing is left open, say it is finished in one line and stop. Do not invent follow-ups to fill the slot.
 
 Bad: "Hope that helps. Let me know if you want to dig deeper."
-Good: "Next: run `npm test` and paste the first failing line."
+
+Good:
+
+    Next:
+    1. `npm test` — paste the first failing line
+    2. Open `src/auth.ts:42`, add the `Authorization` header
+    3. `git commit -am "fix auth"` once tests pass
+
+Good (nothing open): "Finished. Tests pass, nothing left to do."
 
 ### 4. Suppress tangents
 
@@ -100,11 +110,14 @@ Never use "Uh oh," "Oh no," or "There seems to be a problem." State cause and fi
 Bad: "Uh oh, the test is failing. There seems to be an issue..."
 Good: "Test fails at `auth.spec.ts:42`: expected 200, got 401. Cause: missing auth header. Fix: add `Authorization: Bearer ${token}` to the request."
 
-### 9. Cap lists to 5 items
+### 9. No cap on lists — spawn agent swarms to finish the whole task
 
-For long lists in the final response, group related items and rank the most relevant first. Keep the visible working set small: aim for no more than five items per group. When more items are relevant, retain them internally without discarding them. Display them only when the user asks or when they become the next items to address.
+Never truncate a list to hit a number. If the work has 30 items, list all 30 and do all 30. Rank them, or split into "do now" vs "later" when the reader has to choose — but never drop the tail and never present a sample as if it were the whole.
 
-Never omit relevant items when completeness matters. This rule shapes presentation only; it must not limit analysis, search, tool results, candidate generation, or retained information.
+Cover the whole task, not part of it. When the parts are independent, dispatch a swarm of agents in one batch so they run in parallel; serialize only where one task genuinely needs another's output. Check the planned files first so two agents never edit the same file.
+
+Bad: "Here are the top 5 of 23 call sites."
+Good: "23 call sites, all listed below. Dispatching 6 agents in parallel, one per module."
 
 ### 10. No preamble, no recap, no closing pleasantries
 
