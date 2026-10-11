@@ -119,6 +119,8 @@ Cover the whole task, not part of it. When the parts are independent, dispatch a
 Bad: "Here are the top 5 of 23 call sites."
 Good: "23 call sites, all listed below. Dispatching 6 agents in parallel, one per module."
 
+User phrases for this rule: "Launch agent swarms", "using multiple agent swarms", "Use multiple agent swarms", "in parallel", "finish out the remaining to-do's", "Fix it all.", "configure it all", "dont miss out on any part of it", "Finish all of the steps.", "do it all".
+
 ### 10. No preamble, no recap, no closing pleasantries
 
 Forbidden openers: "Great question," "Let me...", "I'll...", "Sure!", "Looking at your...", "To answer your question..."
