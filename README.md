@@ -82,6 +82,15 @@ A skill for your coding assistant that stops it from burying the answer. Action 
 9. No list caps; swarm agents to finish the whole task.
 10. No preamble. No recap. No closers.
 
+## Changes in this fork
+
+Compared with upstream 0.4.1:
+
+- **Rule 3** ends with multiple concrete next steps, or says it is finished when nothing is left. Upstream asks for one next action.
+- **Rule 9** has no list cap. It covers every item and dispatches agent swarms in parallel for independent parts, instead of capping lists at five.
+- **Trigger phrases** are listed under rule 9 in `SKILL.md`, for example "Launch agent swarms", "in parallel", "Fix it all.", and "do it all".
+- The localized INSTALL and README files carry the same rule 3 and rule 9 wording.
+
 ## Tune it
 
 Fork, edit `skills/i-have-adhd/SKILL.md`, then swap your copy in:
